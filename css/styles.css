@@ -1,0 +1,25 @@
+#walrus-showing {
+  display: none;
+}
+
+#sloth-showing {
+  display: none;
+}
+
+.clickable-walrus {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-walrus:hover {
+  text-decoration: underline;
+}
+
+.clickable-sloth {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-sloth:hover{
+  text-decoration: underline;
+}
